@@ -86,8 +86,9 @@ Implementing these recommendations could lead to:
 ---
 ## 🔗 Project Access
 
-You can download the Power BI file [here]https://app.powerbi.com/links/zyXhCcVzvW?ctid=e1382191-cd3f-4dd9-a1c3-0ceb4f0065f1&pbi_source=linkShare
+You can download the Power BI file [here](https://app.powerbi.com/links/zyXhCcVzvW?ctid=e1382191-cd3f-4dd9-a1c3-0ceb4f0065f1&pbi_source=linkShare)
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]https://github.com/Tobbysam247/Call-Center-Analysis/blob/main/Media%20Planet%20Call%20Centre%20Report.png?raw=true
+![Dashboard Screenshot](https://github.com/Tobbysam247/Call-Center-Analysis/blob/main/Media%20Planet%20Call%20Centre%20Report.png?raw=true)
+
