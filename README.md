@@ -90,10 +90,4 @@ You can download the Power BI file [here]https://app.powerbi.com/links/zyXhCcVzv
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]
-
-## 📬 Author
-
-**Prepared by**: Tobi  
-**Location**: Abuja, Nigeria  
-**Toolset**: Excel + Power BI  
+![Dashboard Screenshot]https://github.com/Tobbysam247/Call-Center-Analysis/blob/main/Media%20Planet%20Call%20Centre%20Report.png?raw=true
