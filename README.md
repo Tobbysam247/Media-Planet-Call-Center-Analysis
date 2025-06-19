@@ -92,3 +92,10 @@ You can download the Power BI file [here](https://app.powerbi.com/links/zyXhCcVz
 
 ![Dashboard Screenshot](https://github.com/Tobbysam247/Call-Center-Analysis/blob/main/Media%20Planet%20Call%20Centre%20Report.png?raw=true)
 
+---
+🙋‍♂️ Author
+-  **Oluwatobi Akinwumi**
+- Chartered Accountant & Data Analyst
+- 📍 Abuja, Nigeria
+-  +2348064549683
+-  📧 tobbysam247@gmail.com
