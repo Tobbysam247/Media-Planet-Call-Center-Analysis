@@ -24,7 +24,7 @@ This project presents an in-depth analysis of customer service operations at the
 ---
 
 ### 2. **Longer Calls Signal Deeper Issues**
-- Over 50% of calls lasted 4–7 minutes, suggesting technical and streaming support isn't just surface-level.
+- Over 50% of calls lasted 4–7 minutes, suggesting technical and streaming support is not just surface-level.
 - **Recommendation**: Introduce quick-reference guides or cheat sheets to help agents confidently handle repeat or complex issues, reducing resolution time and stress.
 
 ---
@@ -90,7 +90,8 @@ You can download the Power BI file [here](https://app.powerbi.com/links/zyXhCcVz
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Tobbysam247/Call-Center-Analysis/blob/main/Media%20Planet%20Call%20Centre%20Report.png?raw=true)
+![Media Planet Call Centre Report](https://github.com/user-attachments/assets/23fc0267-e2d3-4e66-ab05-5e904e245d01)
+
 
 ---
 🙋‍♂️ Author
