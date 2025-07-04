@@ -94,7 +94,7 @@ You can download the Power BI file [here](https://app.powerbi.com/links/zyXhCcVz
 
 
 ---
-🙋‍♂️ Author
+     Author
 -  **Oluwatobi Akinwumi**
 -  Auditor & Data Analyst
 - 📍 Abuja, Nigeria
